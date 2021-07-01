@@ -98,8 +98,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `4Cydonia`,
+        short_name: `4Cydonia`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,

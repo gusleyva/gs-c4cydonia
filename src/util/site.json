@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "4Cydonia",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Construido con Gatsby y Netlify CMS. Hecho con ❤ por Stackrole",
     "siteUrl": "https://foundation.stackrole.com",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@ovatleyva"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

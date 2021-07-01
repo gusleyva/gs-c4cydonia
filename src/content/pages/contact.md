@@ -1,9 +1,9 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contactame!
 ---
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Tienes una pregunta relacionada a **Java**, necesitas una nueva **app**, **website**, **asesoría**, o solo una duda en general? Estoy feliz de poder hablar al respecto.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Enviame un mensaje utilizando el siguiente formulario o un DM en [Twitter](https://twitter.com/ovatleyva)
